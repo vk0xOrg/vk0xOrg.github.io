@@ -9,13 +9,33 @@
       <link>https://vk0xOrg.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 18:38:20 +0100</lastBuildDate><atom:link href="https://vk0xOrg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jan 2022 12:32:29 +0100</lastBuildDate><atom:link href="https://vk0xOrg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>all</title>
       <link>https://vk0xOrg.github.io/categories/all/</link>
-      <pubDate>Thu, 30 Dec 2021 18:38:20 +0100</pubDate>
+      <pubDate>Wed, 26 Jan 2022 12:32:29 +0100</pubDate>
       
       <guid>https://vk0xOrg.github.io/categories/all/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://vk0xOrg.github.io/categories/music/</link>
+      <pubDate>Wed, 26 Jan 2022 12:32:29 +0100</pubDate>
+      
+      <guid>https://vk0xOrg.github.io/categories/music/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>scripts</title>
+      <link>https://vk0xOrg.github.io/categories/scripts/</link>
+      <pubDate>Wed, 26 Jan 2022 12:32:29 +0100</pubDate>
+      
+      <guid>https://vk0xOrg.github.io/categories/scripts/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

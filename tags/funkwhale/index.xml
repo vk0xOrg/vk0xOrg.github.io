@@ -33,6 +33,21 @@
 <li>вказане тут посилання на плейліст <strong>Український реп</strong>. послухай його, особливо якщо малолєтка, бо це однозначно краще отого московського &ldquo;слиш ти малишка дай поєбатца німніжка&rdquo; репу.</li>
 </ul>
 <p>🃏 ☠️ 🕹️</p>
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+<div id="comment-section"></div>
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "cactus.chat",
+  siteName: "vablog",
+  commentSectionId: 'vamusic',
+  guestPostingEnabled: false,
+  updateInterval: 30
+})
+</script>
+
 ]]></content:encoded>
     </item>
     

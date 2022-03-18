@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 description: ""
+chatID: ""
 date: {{ .Date }}
 draft: true
 categories: ["all"]
@@ -9,3 +10,5 @@ author: "v.K."
 searchHidden: false
 ---
 
+
+{{< chat >}}
